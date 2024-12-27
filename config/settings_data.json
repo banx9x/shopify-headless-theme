@@ -10,6 +10,13 @@
 {
   "current": {
     "storefront_hostname": "trc-storefront.vercel.app",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "13765328546785274936": {
+        "type": "shopify://apps/trc-super-app/blocks/survey/980e8958-33bd-4938-8a87-8d6f688d53e9",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   }
 }
